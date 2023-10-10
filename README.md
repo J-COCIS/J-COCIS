@@ -1,9 +1,7 @@
-- MUKUNYU MIKE 2100721244
-- WABYOONA ASUMAN 2100721872
-- MUTYABA ISAAC 2100708143
+- MUKUNYU MIKE 
+- WABYOONA ASUMAN 
+- MUTYABA ISAAC 
 - 👋 Hi, I’m @J-COCIS
-- 👀 I’m interested in ...computer science projects
-- 🌱 I’m currently learning ...at Makerere University
 - 📫 How to reach me ...computersciencejinja@gmail.com
 
 <!---
